@@ -1,4 +1,4 @@
-# 10. Campus Event Financial Planning Using Python
+#  Campus Event Financial Planning Using Python
 
 ## 1. Problem Statement
 
